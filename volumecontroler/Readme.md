@@ -52,13 +52,6 @@ Start the script and show your hand in front of the webcam. Move your **thumb** 
 
 ---
 
-## 📷 Example
-
-![Gesture Demo](example.gif)
-*(Replace with a real demo GIF or image if available)*
-
----
-
 ## 🧠 Technologies Used
 
 * **Python** — for scripting
