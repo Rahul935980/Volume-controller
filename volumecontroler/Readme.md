@@ -66,8 +66,3 @@ Start the script and show your hand in front of the webcam. Move your **thumb** 
 
 Feel free to fork, improve, and make a pull request. Suggestions and feedback are always welcome!
 
----
-
-
-
-Let me know if you want me to create the actual `gesture_volume_control.py` script too.
